@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+*.log*
+*test.ts
+pnpm-lock.yaml
+yarn.lock
+package-lock.json

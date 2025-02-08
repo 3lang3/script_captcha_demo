@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "tsx index.ts",
+    "start2": "tsx rewrite_test.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.50.1",
+    "patchright": "^1.50.1",
+    "express": "^4.21.2",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "proxy-chain": "^2.5.6",
+    "tsx": "^4.19.2",
+    "@types/node": "^22.13.1"
+  }
+}
